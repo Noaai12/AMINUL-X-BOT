@@ -1,7 +1,3 @@
-Berikut adalah contoh kode perintah "daily" untuk GoatBot:
-
-Konfigurasi
-```
 module.exports = {
   config: {
     name: "daily",
